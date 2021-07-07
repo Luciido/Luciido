@@ -2,7 +2,7 @@
 - 👀 I’m interested in Chicken Nuggets
 - 🌱 I’m currently learning all about Bananas
 - 💞️ I’m looking to collaborate on a Chicken Nugget contest
-- 📫 How to reach me pary to the food gods
+- 📫 How to reach me: pray to the food gods
 
 <!---
 Luciido/Luciido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
